@@ -20,5 +20,3 @@ moreFruits.update(fruits)
 print("Merged dictionary is...\n")
 print(moreFruits)
 
-# ------ Samragyi Vats
-#---------------------------------------------
