@@ -43,6 +43,3 @@ print()
 pair = dict.items()
 print(pair)
 print()
-
-# ------ Samragyi Vats
-#---------------------------------------------

@@ -22,6 +22,3 @@ list2 = [3, 24]
 #list1.extend(list2)
 list3 =(list1 + list2)
 print(list3)
-
-# ------ Samragyi Vats
-#---------------------------------------------

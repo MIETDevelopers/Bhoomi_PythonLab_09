@@ -28,5 +28,3 @@ print("The list is  = ", list)
 print()
 
 
-# ------ Samragyi Vats
-#---------------------------------------------
